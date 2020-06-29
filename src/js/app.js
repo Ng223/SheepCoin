@@ -103,9 +103,9 @@ App = {
     }).then(function(tokensSold) {
       App.tokensSold = tokensSold.toNumber();
       $('.tokens-sold').html(App.tokensSold);
-      $('.tokens-available').html(App.tokensAvailable);
+      $('.tokens-available').html(App.tokensAvailable - 10000);
 
-      var progressPercent = (Math.ceil(App.tokensSold) / App.tokensAvailable) * 100;
+      var progressPercent = (Math.ceil(App.tokensSold) / (App.tokensAvailable - 10000)) * 100;
       $('#progress').css('width', progressPercent + '%');
 
       // Load token contract
