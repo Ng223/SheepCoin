@@ -1,0 +1,34 @@
+.move-area{
+  position: relative;
+  top: 100%;
+  right: 43%;
+  width: 100vw;
+  height: 100vh;
+  padding: 4.5% 5%;
+}
+.containeRR {
+  width: 100%;
+}
+.eye {
+  position: relative;
+  display: inline-block;
+  border-radius: 50%;
+  height: 30px;
+  width: 30px;
+  background: #CCC;
+}
+.eye:after {
+  position: absolute;
+  bottom: 17px;
+  right: 10px;
+  width: 10px;
+  height: 10px;
+  background: #000;
+  border-radius: 50%;
+  content: " ";
+}
+.imageContainer{
+  display: block;
+  margin: auto;
+  z-index: -1;
+}
