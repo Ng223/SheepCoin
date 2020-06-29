@@ -1,0 +1,17 @@
+{
+  "name": "sheep_coin-token-sale",
+  "version": "1.0.0",
+  "description": "SheepCoin Token Sale ICO",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "author": "Nishant (with help from Dapp University)",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
