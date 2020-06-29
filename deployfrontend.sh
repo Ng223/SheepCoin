@@ -1,5 +1,5 @@
-rsync -r src/ docs/
-rsync build/contracts/* docs/
+rrsync -r src/ docs/
+rrsync build/contracts/* docs/
 git add .
 git commit -m "Compiles assets for Github Pages"
 git push
