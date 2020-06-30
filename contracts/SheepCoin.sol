@@ -3,7 +3,7 @@ pragma solidity >=0.5.16;
 contract SheepCoin {
 			address payable public admin;
 			string  public name = "SheepCoin";
-	    string  public symbol = "SC";
+	    string  public symbol = "BAA";
 	    uint256 public totalSupply;
 
 	    event Transfer(
