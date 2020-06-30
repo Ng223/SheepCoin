@@ -5,7 +5,7 @@
 ## Introduction
 SheepCoin is a ERC20-compliant crypto-token deployed to the Ropsten testnet.\
 Name: SheepCoin\
-Ticker: SC\
+Ticker: BAA\
 Total Supply: 10000000\
 Decimals: 0 (You cannot own a fraction of 1 SheepCoin)
 
