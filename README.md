@@ -6,12 +6,12 @@
 SheepCoin is a ERC20-compliant crypto-token deployed to the Ropsten testnet.\
 Name: SheepCoin\
 Ticker: SC\
-Total Supply: 100000\
+Total Supply: 10000000\
 Decimals: 0 (You cannot own a fraction of 1 SheepCoin)
 
 Validate at [Etherscan](https://ropsten.etherscan.io/)\
-SheepCoin contract address: 0x8540bb493e34a0aa72c9a4b7965cd8bf6b8af13e\
-SheepCoinSale contract address (for ICO): 0x02c1c91b172cbab203d985c9caa7e7c4ee016ee7
+SheepCoin contract address: 0xBbf3b357457a0694E559885E0b601276f6F15D2f\
+SheepCoinSale contract address (for ICO): 0x798445De55AD22461337703f1259a04e6127872a
 
 ## What are ERC20 tokens?
 ERC20 is a technical standard for token implementation on the Ethereum blockchain (mainnet and testnets). ERC20-compliant tokens can be exchanged as transactions on the Ethereum blockchain and stored in crypto-wallets.
