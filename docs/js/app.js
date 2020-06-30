@@ -3,9 +3,9 @@ App = {
   contracts: {},
   account: '0x0',
   loading: false,
-  tokenPrice: 1000000000000000,
+  tokenPrice: 100000000000000,
   tokensSold: 0,
-  tokensAvailable: 100000000,
+  tokensAvailable: 10000000,
 
   init: function() {
     console.log("App initialized...")
@@ -103,9 +103,9 @@ App = {
     }).then(function(tokensSold) {
       App.tokensSold = tokensSold.toNumber();
       $('.tokens-sold').html(App.tokensSold);
-      $('.tokens-available').html(App.tokensAvailable - 10000000);
+      $('.tokens-available').html(App.tokensAvailable - 100000);
 
-      var progressPercent = (Math.ceil(App.tokensSold) / (App.tokensAvailable - 10000000)) * 100;
+      var progressPercent = (Math.ceil(App.tokensSold) / (App.tokensAvailable - 100000)) * 100;
       $('#progress').css('width', progressPercent + '%');
 
       // Load token contract
