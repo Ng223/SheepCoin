@@ -1,5 +1,7 @@
 # SheepCoin 
+
 **Check out our ICO website and buy SheepCoin using fake ether (it won't cost you anything) [here](https://ng223.github.io/SheepCoin/)**
+
 ---
 ## Introduction
 SheepCoin is a ERC20-compliant crypto-token deployed to the Ropsten testnet.\
