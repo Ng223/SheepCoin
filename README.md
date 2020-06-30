@@ -23,8 +23,8 @@ In the world of cryptocurrencies, an ICO *(Initial Coin Offering)* is analogous 
 
 ---
 ## Instructions to buy SheepCoin
- 1. Install and Add (and Pin) the Metamask extension to your browser
-..i) Go to https://metamask.io/ -> Download -> Select <browser> and click on 'Install Metamask for <browser>'.
+ 1. Install and Add (and Pin) the Metamask extension to your browser\
+..i) Go to https://metamask.io/ -> Download -> Select *browser* and click on 'Install Metamask for *browser*'.
 ![](README_images/Screenshot_1_1.png)
 ..ii) Create (or Import) a Wallet
 ![](README_images/Screenshot_1_2.png)
@@ -32,7 +32,7 @@ In the world of cryptocurrencies, an ICO *(Initial Coin Offering)* is analogous 
  2. Go to https://faucet.ropsten.be/
 ![](README_images/Screenshot_2.png)
 
- 3. Click on the Metamask extension (fox logo) icon in your browser
+ 3. Click on the Metamask extension (fox logo) icon in your browser\
 ..i) Connect to the Ropsten Test network.
 ![](README_images/Screenshot_3_1.png)
 ..ii) Copy your account address and paste it in the faucet search box -> Click in 'Send me test Ether'. This shall deposit 1 test Ether in your account - You can use it on the Ropsten testnet.
@@ -48,7 +48,7 @@ In the world of cryptocurrencies, an ICO *(Initial Coin Offering)* is analogous 
 
  5. Click on the Metamask extension (fox logo) icon in your browser -> Menu -> (Scroll down) Click on 'Add token' -> Select 'Custom Token' tab -> Enter the SheepCoin contract address (mentioned in the introduction section of README.md) -> Click 'Next'.
 
- 6. _
+ 6. _\
  ..i) You can now see your SheepCoin balance in the 'Menu' after clicking on the Metamask extension (fox logo) icon in your browser.  
 ![](README_images/Screenshot_6_1.png)
  ..ii) And you can send SheepCoin to others as transactions using their addresses.
